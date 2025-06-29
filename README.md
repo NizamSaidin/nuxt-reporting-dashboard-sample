@@ -47,9 +47,9 @@ As Nuxt shares a similar structure & design with Next.js, I found it easy to get
 
 Here are a list of technical setup i've choose to build this project.
 
-1. Using Nuxt as the main framework since it’s built on Vue 3 with Composition API enabled by default. Using Nuxt, it help in structuring & organizing the codebase better. It also has built-in SSR support by default which can improve initial page loading time & using directory-based routing that i find it easy to adapt, making it easier to manage app routes. 
-2. Using shadcn-vue to build consistent and accessible UI components. It offers customizable primitives that support a design system approach.
-3. Using Tailwind CSS for UI styling as it helps in styling UI components faster using utility classes.
+1. Using [Nuxt](https://nuxt.com/) as the main framework since it’s built on Vue 3 with Composition API enabled by default. Using Nuxt, it help in structuring & organizing the codebase better. It also has built-in SSR support by default which can improve initial page loading time & using directory-based routing that i find it easy to adapt, making it easier to manage app routes. 
+2. Using [shadcn-vue](https://www.shadcn-vue.com/) to build consistent and accessible UI components. It offers customizable primitives that support a design system approach.
+3. Using [Tailwind CSS v4](https://tailwindcss.com/) for UI styling as it helps in styling UI components faster using utility classes.
 4. Using feature-based directory structure to organize the codebase for a clear separation of code for each feature to ensure scalability and maintainability.
    1. `/features` directory contains all the features of the application, each feature has its own directory with components, composables, models, api, services, etc.
    2. `/components` directory contains global reusable components that can be used across the application.
