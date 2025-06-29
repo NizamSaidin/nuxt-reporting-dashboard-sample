@@ -3,6 +3,8 @@
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
+Using Node version 20 or later.
+
 1. Clone the repository:
 
 ```bash
