@@ -69,3 +69,6 @@ Here are a list of technical setup i've choose to build this project.
 ## Future Improvements
 1. Implement loader & error states in the UI for API calls.
 3. Add unit tests for components to ensure code quality and reliability.
+
+## Demo
+[Click here to view the demo](https://kaya.nizamsaidin.com)
