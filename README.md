@@ -6,11 +6,17 @@ Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduct
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/nizamSaidin/nuxt-reporting-dashboard-sample.git
+git clone https://github.com/NizamSaidin/nuxt-reporting-dashboard-sample.git
 cd nuxt-reporting-dashboard-sample
 ```
 
-2. Make sure to install dependencies:
+2. Copy the `.env.example` file to `.env` and update the environment variables as needed:
+
+```bash
+cp .env.example .env
+```
+
+3. Make sure to install dependencies:
 
 ```bash
 # npm
@@ -26,7 +32,7 @@ yarn install
 bun install
 ```
 
-3. Start the development server on `http://localhost:3000`:
+4. Start the development server on `http://localhost:3000`:
 
 ```bash
 # npm
